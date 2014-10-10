@@ -50,7 +50,7 @@ class SwiftlyReachableTests: XCTestCase {
 
         self.waitForExpectationsWithTimeout(1, nil)
             
-        XCTAssertEqual(blockStatus, self.STATUS_WIFI, "status should be ViaCellData")
+        XCTAssertEqual(blockStatus, self.STATUS_WIFI, "status should be ViaWiFi")
     }
     
 }

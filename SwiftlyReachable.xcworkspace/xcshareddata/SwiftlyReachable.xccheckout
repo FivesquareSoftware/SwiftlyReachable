@@ -10,14 +10,14 @@
 	<string>SwiftlyReachable</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>D8278A39DB347EBE18F9AA499A2EB43DD25882C8</key>
+		<key>08CB765728B7C9E57A89081BBC4081717CBE06A1</key>
 		<string>/Users/rick/Sync/repos/SwiftlyReachable.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>SwiftlyReachable.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>D8278A39DB347EBE18F9AA499A2EB43DD25882C8</key>
+		<key>08CB765728B7C9E57A89081BBC4081717CBE06A1</key>
 		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>D8278A39DB347EBE18F9AA499A2EB43DD25882C8</string>
+	<string>08CB765728B7C9E57A89081BBC4081717CBE06A1</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>D8278A39DB347EBE18F9AA499A2EB43DD25882C8</string>
+			<string>08CB765728B7C9E57A89081BBC4081717CBE06A1</string>
 			<key>IDESourceControlWCCName</key>
 			<string>SwiftlyReachable</string>
 		</dict>
