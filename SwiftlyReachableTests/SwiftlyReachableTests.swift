@@ -7,7 +7,6 @@
 //
 
 import XCTest
-import SwiftlyReachable
 
 public var statusFlags:UInt32 = 0
 
